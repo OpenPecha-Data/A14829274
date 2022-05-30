@@ -1,0 +1,25 @@
+segment_sources:
+  I560AC686:
+    type: origin_type
+    relation: translation
+    language: en
+  IFD4A299C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b9adb2bcaf624330b78cad391b62f5ac:
+    I560AC686: 8c8e82fe43db4a5eb5eec345ac7971c3
+    IFD4A299C: 18e7150a5e0949298239816ec59c998c
+  2772372e87ff4a059413c1f6b4d128c1:
+    I560AC686: 8dd7b19f3bb34fc5982f280a431d8bac
+    IFD4A299C: 985c561015964520943fdba8ebcafff1
+  d39cb8784d2a46969ea6db761155fa13:
+    I560AC686: e9ce2844576b4bafb79373be4e24cca7
+    IFD4A299C: 6ae5a6a73f4047baa56c93e512cea2c1
+  03e90fbcf8a4478e83523e73b9c2bc2a:
+    I560AC686: fc96ca972e4e4d1db69a61ca135fc72f
+    IFD4A299C: 9459b7db123d4a1cb245de36a1a2531f
+  a3683c65c7a543039f7088c22b2e3396:
+    I560AC686: 7a0232a5a8e044b29b3365515e0a5e64
+    IFD4A299C: aafeed719cae4235bb318a6144307c8d
